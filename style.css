@@ -1,0 +1,53 @@
+body, 
+
+html {
+	width: 100%;
+	height: 100%;
+	font-family: roboto;
+	 background: url(https://www.bhmpics.com/downloads/black-abstract-wallpaper-4k-Wallpapers/1.abstract-lines-dark-4k-mg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+h1 {
+
+	color: darkslateblue;
+	font-size: 3rem;
+
+
+}
+
+hr {
+    margin: 5px auto;
+    color: darkslateblue;
+    border: 3px solid darkslateblue;
+    max-width: 65px;
+    opacity: 1;  
+}
+
+.btn {
+
+padding: 0.6rem 2rem;
+
+
+
+}
+
+
+.btn-dark:hover {
+
+	background-color: darkslateblue;
+	border-color: darkslateblue;
+	border-width: 2px;
+	text-decoration-color: black;
+
+
+}
+
+.buffer {
+
+	height: 10rem;
+}
